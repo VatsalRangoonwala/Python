@@ -1,6 +1,0 @@
-a = open("file.txt", "w")
-a.write("im fine")
-a.close()
-a = open("file.txt", "r")
-text = a.read()
-print(text)
